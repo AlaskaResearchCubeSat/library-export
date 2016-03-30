@@ -1,0 +1,21 @@
+[submodule "ARClib"]
+	path = ARClib
+	url = git@github.com:AlaskaResearchCubeSat/ARClib.git
+[submodule "ErrorLib"]
+	path = ErrorLib
+	url = git@github.com:AlaskaResearchCubeSat/ErrorLib.git
+[submodule "I2Clib"]
+	path = I2Clib
+	url = git@github.com:AlaskaResearchCubeSat/I2Clib.git
+[submodule "SD-lib"]
+	path = SD-lib
+	url = git@github.com:AlaskaResearchCubeSat/SD-lib.git
+[submodule "UART-lib"]
+	path = UART-lib
+	url = git@github.com:AlaskaResearchCubeSat/UART-lib.git
+[submodule "commands"]
+	path = commands
+	url = git@github.com:AlaskaResearchCubeSat/commandLib.git
+[submodule "termlib"]
+	path = termlib
+	url = git@github.com:AlaskaResearchCubeSat/termlib.git
